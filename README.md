@@ -92,5 +92,3 @@ iDLink centralizes ID requests and processing, improving traceability, reducing 
 Include a `LICENSE` file (e.g., MIT) and add `CONTRIBUTING.md` if you want contribution guidelines.
 
 ---
-
-If you want, I can add `backend/.env.example`, a `CONTRIBUTING.md`, and a `LICENSE` file (MIT/Apache). Let me know which license you prefer.
