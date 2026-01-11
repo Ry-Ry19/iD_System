@@ -87,8 +87,3 @@ iDLink centralizes ID requests and processing, improving traceability, reducing 
 
 ---
 
-## License & Contributing
-
-Include a `LICENSE` file (e.g., MIT) and add `CONTRIBUTING.md` if you want contribution guidelines.
-
----
